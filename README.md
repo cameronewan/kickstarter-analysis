@@ -7,8 +7,5 @@ The purpose of our analysis was to determine how Louise’s play Fever compared 
 ## Analysis and Challenges
 
 It is often easiest to understand data when it is visually represented in a graph or chart so we created a few of each type. I created both a pivot table and a line graph for both data sets that we were analyzing. (insert charts) The reason that we made the pivot tables is that we were not interested in all the data that we had available to us, we were only interested in some of the data. Pivot tables are a great way to filter data so that you only see what in necessary, which in turn allows us to make charts out of that data which further our analysis even more. The biggest challenges that I encountered were making sure that the functions I was using in excel were correct and were not going to give me any errors. I also had to make sure my symbols such as >/>=/<= were all correct otherwise my results might come back with incorrect data.  
-![Outcomes by Goal](path/to/Outcomes by Goal.png)
+![Outcomes by Goals](https://user-images.githubusercontent.com/75695931/108108662-e66be700-705e-11eb-96d6-9c3f1d9ba259.png)
 
-![Outcomes by Launch](path/to/Outcomes by Launch.png)
-
-![Outcomes by Goal](path/to/Outcomes by Goal.png)
