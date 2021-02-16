@@ -10,4 +10,5 @@ It is often easiest to understand data when it is visually represented in a grap
 ![Outcomes by Goal](path/to/Outcomes by Goal.png)
 
 ![Outcomes by Launch](path/to/Outcomes by Launch.png)
-![image_name](path/to/Outcomes by Goal.png)
+
+![image_name](path/to/Outcomes_by_Goal.png)
