@@ -10,7 +10,7 @@ It is often easiest to understand data when visually represented in a graph or c
 ![Outcomes by Goals](https://user-images.githubusercontent.com/75695931/108108662-e66be700-705e-11eb-96d6-9c3f1d9ba259.png)
 ![Outcomes by Launch](https://user-images.githubusercontent.com/75695931/108108738-026f8880-705f-11eb-8851-c35a4c0941fb.png)
 
-##Results
+## Results
 ### Analysis of Outcomes Based on Launch Date
 -	The most precise and obvious conclusion that we can draw from the Outcomes-based on Launch Data is that there were more successful theater startups than failed ones by a somewhat significant number (839->493). Something interesting to note is that the line graphs follow a very similar pattern. We can conclude from this that there are months when more people are looking to launch their theater productions, such as in May and June, and less in December and January. While there were many successful launches in May and June, there were also a lot of failed launches. This could mean that these months are a good time to launch because people are going out more to the theater. After all, it is nice outside. However, that also means more competition between the productions, which results in more failing as well. 
 
